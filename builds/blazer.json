@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "Claps",
+      "oem": "Google",
+      "device": "Pixel 10 Pro",
+      "filename": "",
+      "download": "",
+      "timestamp": 0,
+      "md5": "",
+      "sha256": "",
+      "size": 0,
+      "version": "3.9",
+      "buildtype": "Unofficial",
+      "forum": "",
+      "gapps": "",
+      "firmware": "BP4A.260205.001",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "",
+      "dt": "https://github.com/tman0023/device_google_muzel",
+      "common-dt": "https://github.com/tman0023/device_google_laguna",
+      "kernel": "https://android.googlesource.com/kernel/google-modules/soc/gs"
+    }
+  ]
+}
