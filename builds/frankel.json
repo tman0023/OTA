@@ -1,0 +1,28 @@
+{
+  "response": [
+    {
+      "maintainer": "",
+      "oem": "",
+      "device": "frankel",
+      "filename": "Lunaris-AOSP-frankel-Community-3.9-GMS-2026041018.zip",
+      "download": "https://sourceforge.net/projects/claps-roms/files/Lunaris/Frankel/Lunaris-AOSP-frankel-Community-3.9-GMS-2026041018.zip/download",
+      "timestamp": 1775846011,
+      "md5": "9e64c8c33c0fbde2f75ab875666b11ea",
+      "sha256": "d8f3e9ddb38b5182778638825c6c8a942037bb5bf53be1d8009a94ab173f5b8b",
+      "size": 2794331710,
+      "version": "3.9",
+      "buildtype": "",
+      "forum": "",
+      "gapps": "",
+      "firmware": "",
+      "modem": "",
+      "bootloader": "",
+      "recovery": "",
+      "paypal": "",
+      "telegram": "",
+      "dt": "",
+      "common-dt": "",
+      "kernel": ""
+    }
+  ]
+}
